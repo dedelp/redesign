@@ -1,0 +1,1 @@
+{"version":3,"file":"ContentFragmentViewer.d.ts","sourceRoot":"","sources":["../../../src/content/ContentFragmentViewer.tsx"],"names":[],"mappings":";AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,GAAG,CAAC;AAGpC,MAAM,MAAM,0BAA0B,GAAG;IACvC,QAAQ,EAAE,eAAe,CAAC;IAC1B,GAAG,EAAE,MAAM,CAAC;CACb,CAAC;AAEF,eAAO,MAAM,qBAAqB,EAAE,KAAK,CAAC,EAAE,CAAC;IAAE,QAAQ,EAAE,eAAe,CAAA;CAAE,CAgBzE,CAAC"}
